@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMarvelApp</string>
+    <string name="app_description">Bienvenu dans l\'API Marvel pour connaitre les dernières sorties de vos Comics </string>
+    <string name="detail_comics_title">Titre du comic: </string>
+    <string name="detail_comics_date">Date/Sortie: </string>
+    <string name="detail_comics_Autor_Role">Auteur/Role: </string>
+    <string name="detail_comics_diamondCode">Diamond Code: </string>
+</resources>

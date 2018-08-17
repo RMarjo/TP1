@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorBackgroudToolbar">#ff6666</color>
+    <color name="colorMarvel">#c10101</color>
+    <color name="colorCoolSimpa">#01c1b4</color>
+    <color name="colorOrMarvel">#ffd82d</color>
+</resources>
